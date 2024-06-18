@@ -1,7 +1,10 @@
 jupyter-book
 matplotlib
 numpy
-pandas
-plotly
-seaborn
+pandas~=2.2.2
+plotly~=5.22.0
+seaborn~=0.13.2
 openpyxl
+ipywidgets
+ipython
+statsmodels
