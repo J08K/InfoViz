@@ -6,3 +6,6 @@ root: docs/home
 chapters:
 - file: docs/dataprocessing
 - file: docs/notebook
+- file: docs/reflectie
+- file: docs/werkverdeling
+- file: docs/referenties
