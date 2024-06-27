@@ -5,7 +5,8 @@ format: jb-book
 root: docs/home
 chapters:
 - file: docs/dataprocessing
-- file: docs/notebook
+- file: docs/conflicten
+- file: docs/bestuursvormen
 - file: docs/reflectie
 - file: docs/werkverdeling
 - file: docs/referenties
