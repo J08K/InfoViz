@@ -5,7 +5,7 @@
 3. <em>Index.</em> (z.d.). RSF. https://rsf.org/en/index 
 4. <em>Kenmerken van een (representatieve) democratie - ProDemos.</em> (z.d.). ProDemos. https://prodemos.nl/kennis/informatie-over-politiek/wat-is-een-democratie/kenmerken-van-een-representatieve-democratie/
 5. Ministerie van Justitie en Veiligheid. (2022, July 6). <em>Vrijheid van meningsuiting.</em> Thema’s | College Voor De Rechten Van De Mens. https://www.mensenrechten.nl/themas/vrijheid-van-meningsuiting 
-6. ProDemos. (2017). [Wat is een dictatuur?] (pp. 1–5). https://prodemos.nl/app/uploads/2022/12/wat-is-een-dictatuur-1.original.pdf
+6. Mulder, P. (2023, 13 november). <em>Autocratisch leiderschap: de uitleg - Toolshero. Toolshero</em>. https://www.toolshero.nl/leiderschap/autocratisch-leiderschap/
 
 ## Externe links
 
