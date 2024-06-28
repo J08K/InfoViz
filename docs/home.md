@@ -1,13 +1,10 @@
 # Journalistieke Vrijheid in Beeld: Invloed van Politieke Regimes en Conflicten
 Groep: *D1 - Walvisualisatie*
 
-Anne Beks - 15237621, 
-
-Glenn de Graaff - 15149013, 
-
-Noor Koevoet - 15054039, 
-
-Job Kolhorn - 15217140
+- Anne Beks - 15237621, 
+- Glenn de Graaff - 15149013, 
+- Noor Koevoet - 15054039, 
+- Job Kolhorn - 15217140
 
 ## Introductie
 Persvrijheid is een principe dat stelt dat de pers vrij is om te schrijven, zeggen en publiceren wat zij willen.
@@ -16,7 +13,7 @@ In Nederland is persvrijheid, samen met het recht op meningsuiting, vastgelegd i
 Ook in andere landen en binnen Europees verband zijn er wetten die persvrijheid en vrijheid van meningsuiting beschermen.
 
 
-Om te verzekeren dat journalisten hun werk veilig kunnen doen, hebben zij een beschermde status van het Europese Hof voor de Rechten van de Mens (EHRM).
+Om te verzekeren dat journalisten hun werk veilig kunnen doen, hebben zij een beschermde status van het Europese Hof voor de Rechten van de Mens (EHRM) [(Ministerie van Justitie en Veiligheid, 2022)](./referenties).
 Journalisten brengen informatie naar buiten over algemeen belangrijke zaken en zijn daarom van cruciaal belang voor de democratie.
 Hoewel er vrijheid is om te publiceren wat men wil, betekent dit niet dat dit onbestraft kan gebeuren.
 Wanneer publicaties discriminerend zijn of aanzetten tot opruiing, kan iemand aangeklaagd en veroordeeld worden.
@@ -28,8 +25,9 @@ Ook in landen waar conflicten gaande zijn, zijn er mogelijk meerdere machten aan
 In zulke situaties is het moeilijk om te waarborgen dat de wet wordt nageleefd.
 
 Deze data-analyse zal onderzoeken of de mate van persvrijheid wordt beïnvloed door conflicten of de mate van democratie.
-Door gebruik te maken van data van Reporters Without Borders (RSF), The Armed Conflict Location & Event Data Project (ACLED)
-en Our World in Data, zullen we scores en ranglijsten analyseren rondom persvrijheid, democratie en conflicten wereldwijd.
+Door gebruik te maken van data van [Reporters Without Borders (RSF) (2024)](./referenties),
+[The Armed Conflict Location & Event Data Project (ACLED) (2024)](./referenties)
+en [Our World in Data (2024)](./referenties), zullen we scores en ranglijsten analyseren rondom persvrijheid, democratie en conflicten wereldwijd.
 
 Er zijn verschillende factoren die de mate van persvrijheid in een land kunnen beïnvloeden.
 Een belangrijk aspect is de aanwezigheid van conflicten.
